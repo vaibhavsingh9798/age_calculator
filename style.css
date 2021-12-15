@@ -1,0 +1,17 @@
+.base{
+  
+    text-align: center;
+    background-color: brown;
+}
+h4{
+    align-items: center;
+}
+#age{
+ text-align: center;
+ color: black;
+ background-color:aquamarine;
+}
+.enter{
+    margin-top: 40px;
+    background-color: aquamarine;
+}
